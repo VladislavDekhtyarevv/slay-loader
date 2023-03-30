@@ -1,7 +1,5 @@
 # Slay Loader library
 
-Here's a brief  introduction or check <a href="https://vladislavdekhtyarevv.github.io/slay-loader/" >documentation</a>
-
 You can use it with global state your app, and connect the component on main App file.
 Or you can use it on separate page, and change state loader from local data.
 
