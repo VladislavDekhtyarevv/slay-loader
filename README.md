@@ -1,9 +1,17 @@
-# Slay Loader library
+# Slay Loader library for Vue3
+
+GitHub repository: <a target="_blank" href="https://github.com/VladislavDekhtyarevv/slay-loader" >Slay loader</a>
 
 Here's a brief  introduction or check <a href="https://vladislavdekhtyarevv.github.io/slay-loader/" >documentation</a>
 
 You can use it with global state your app, and connect the component on main App file.
 Or you can use it on separate page, and change state loader from local data.
+
+### What does it look like
+<p align="center">
+    <img src="https://github.com/VladislavDekhtyarevv/slay-loader/example.png" width="800px">
+    <br>
+</p>
 
 ### Installation
 
