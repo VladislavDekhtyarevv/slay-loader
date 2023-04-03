@@ -9,7 +9,7 @@ Or you can use it on separate page, and change state loader from local data.
 
 ### What does it look like
 <p align="center">
-    <img src="https://github.com/VladislavDekhtyarevv/slay-loader/example.png" width="800px">
+    <img src="https://github.com/VladislavDekhtyarevv/slay-loader/blob/main/example.png" width="800px">
     <br>
 </p>
 
